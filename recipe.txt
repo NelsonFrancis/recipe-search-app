@@ -1,0 +1,5 @@
+- ingredients
+- veg or nonveg
+- detail page
+- add to cart
+- load more than 10 btn
